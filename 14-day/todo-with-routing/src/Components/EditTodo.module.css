@@ -25,4 +25,9 @@
   width: 25%;
   background-color: #efefef;
   color: #232323;
+  transition: all 0.5s;
+}
+.confirmButton:hover{
+  background-color: rgb(201, 201, 14);
+  color: #232323;
 }

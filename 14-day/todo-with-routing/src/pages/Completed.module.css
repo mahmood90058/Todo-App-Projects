@@ -1,0 +1,14 @@
+.todo{
+    background-color: rgb(150, 173, 17);
+    color: black;
+}
+.para{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+    color: white;
+    font-size: 4rem;
+
+
+}
